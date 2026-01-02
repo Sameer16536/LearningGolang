@@ -9,6 +9,8 @@ func main() {
 	fmt.Println("Hello world")
 	values()
 	testpackage.TestPkg()
+	varibles()
+	loop()
 
 }
 

@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"math"
+)
 
 func varibles() {
 	var a = "initial"
@@ -17,5 +20,16 @@ func varibles() {
 
 	f := "shorthand syntax"
 	fmt.Println(f)
+
+	const s string = "constant"
+	fmt.Println(s)
+
+	const n = 500000000
+
+	const di = 3e20 / n
+	fmt.Println(d)
+
+	fmt.Println(int64(di))
+	fmt.Println(math.Sin(n))
 
 }
