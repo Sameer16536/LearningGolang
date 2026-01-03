@@ -1,16 +1,20 @@
 package main
 
-import (
-	"fmt"
-	testpackage "learninggolang/week-0/test-package"
-)
+// import (
+// 	"fmt"
+// 	testpackage "learninggolang/week-0/test-package"
+// )
 
 func main() {
-	fmt.Println("Hello world")
-	values()
-	testpackage.TestPkg()
-	varibles()
-	loop()
+	// fmt.Println("Hello world")
+	// values()
+	// testpackage.TestPkg()
+	// varibles()
+	// loop()
+	// ifelse()
+	// swi()
+	// arrays()
+	slice()
 
 }
 
