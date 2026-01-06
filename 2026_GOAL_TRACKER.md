@@ -28,10 +28,10 @@
 
 *Focus: Get ready for Monday.*
 
-* [ ] Install Go & VS Code.
-* [ ] Create GitHub Repo: `2026-grind`.
-* [ ] Watch first 2 videos of DSA Playlist (Basics/Arrays).
-* [ ] Solve 1 Easy LeetCode problem (Two Sum) to warm up.
+* [✅] Install Go & VS Code.
+* [✅] Create GitHub Repo: `2026-grind`.
+* [✅] Watch first 2 videos of DSA Playlist (Basics/Arrays).
+* [✅] Solve 1 Easy LeetCode problem (Two Sum) to warm up.
 
 ---
 
@@ -236,3 +236,10 @@ Here are 5 **High-Value, "Hard Engineering" Project Ideas** using Go. Each solve
 | **GateKeeper** | Distributed Sys | ⭐⭐⭐⭐    | Load Balancing Algorithms |
 | **VoltaMQ**    | Infrastructure  | ⭐⭐⭐⭐⭐  | WAL & Storage Engines |
 
+
+
+
+
+## Look up later
+* Streaming Service from Old laptops or any device over local wifi network 
+* to counter the ongoing ram and ssd issues [store movies or something]
