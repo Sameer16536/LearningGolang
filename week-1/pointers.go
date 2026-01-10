@@ -25,4 +25,6 @@ func main() {
 	refChangeNum(&num)
 	fmt.Println("AfterChange", num)
 	fmt.Println("In main func", num)
+
+	testStructs()
 }
